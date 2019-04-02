@@ -1,0 +1,11 @@
+public static void main(String[] args) {
+        // TODO code application logic here
+        String nombre="karelia";
+        String apellidos="rivera";
+        System. out. println("concatenacion:"+nombre+apellidos);
+         System. out. println("nueva linea:\n"+nombre+" "+apellidos);
+         System. out. println("tabulador:\t"+nombre+" "+apellidos);
+         System. out. println("retroceso:\b"+nombre+" "+apellidos);
+         System. out. println("retorno de carro:\r"+nombre+" "+apellidos);
+         System. out. println("comilla simple:'"+nombre+" "+apellidos);
+         System. out. println("comilla doble:\""+nombre+" "+apellidos)
